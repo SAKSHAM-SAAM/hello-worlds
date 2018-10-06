@@ -14,4 +14,6 @@
 
   - If there's already an entry for the language, and you're adding a significantly different "Hello World", you can add `_2`, `_3`.. etc to the end of the file name.
 
-## I will merge your pull request as long as it's valid. It might take about 1-24 hours
+## I will merge your pull request as long as it's valid. It might take about 1-24 hours 
+
+contributing is good .   :)
